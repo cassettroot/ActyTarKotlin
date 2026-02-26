@@ -84,7 +84,7 @@ fun main(){
     */
 
     //Tar5-U2
-
+    /*
     val door = Puerta()
     println(door.estado())
     door.abrir()
@@ -92,6 +92,6 @@ fun main(){
     door.cerrar()
     println(door.estado())
 
-
+     */
 
 }
