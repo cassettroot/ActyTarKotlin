@@ -1,4 +1,4 @@
-//Tar1-U2
+//Tar1-U2 -------------- Parte 1 --------------
 class Lampara {
 
     private var encendida: Boolean = false

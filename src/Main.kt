@@ -1,4 +1,5 @@
 fun main(){
+    // ------------------------ Unidad 1 ------------------------
     //Tarea 1
     /*
     // act1(0,-10,5)
@@ -47,7 +48,9 @@ fun main(){
 
      */
 
-    //Tar1 - U2
+    // ------------------------ Unidad 2 ------------------------
+
+    //Tar1 - U2 --------- Documento 1 ---------
     /*
     var lampara = Lampara()
     println(lampara.estado())
@@ -94,4 +97,44 @@ fun main(){
 
      */
 
+    //Tar1 - U2 --------- Documento 2 ---------
+
+    /*
+    val compra = Descuento()
+    compra.monto = 3200.0
+    println(compra.calcularDescuento())
+    println(compra.totalAPagar())
+
+     */
+
+    //Tar2 - U2
+    /*
+    val eval = Evaluador()
+    eval.calificacion = 8
+    println(eval.resultado())
+
+     */
+
+    //Tar3 - U2
+    /*
+    val cuenta = Propina()
+    cuenta.consumo = 800.0
+    println(cuenta.calcularPropina())
+    println(cuenta.totalConPropina())
+    */
+
+    //Tar4 - U2
+    /*
+    val persona = ValidadorEdad()
+    persona.edad = 70
+    println(persona.categoria())
+    */
+
+    //Tar5 - U2
+    /*
+    val comp = Comparador()
+    comp.numero1 = 10
+    comp.numero2 = 10
+    println(comp.comparar())
+    */
 }
